@@ -36,4 +36,6 @@ align-items:center;}
     margin-left: auto;
     margin-right: auto;
   }
-
+.red{
+   background-color:rgba(228, 228, 228, 0.993);    
+border-radius: 10px;}
